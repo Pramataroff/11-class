@@ -1,0 +1,11 @@
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\bin\Debug\Zadacha za domashna 14.01.26.exe.config
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\bin\Debug\Zadacha za domashna 14.01.26.exe
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\bin\Debug\Zadacha za domashna 14.01.26.pdb
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.csproj.AssemblyReference.cache
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha_za_domashna_14._01._26.Form1.resources
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha_za_domashna_14._01._26.Properties.Resources.resources
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.csproj.GenerateResource.cache
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.exe
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.pdb
+C:\Users\milen\Desktop\school 2025\Zadacha za domashna 14.01.26\Zadacha za domashna 14.01.26\obj\Debug\Zadacha za domashna 14.01.26.exe.config
