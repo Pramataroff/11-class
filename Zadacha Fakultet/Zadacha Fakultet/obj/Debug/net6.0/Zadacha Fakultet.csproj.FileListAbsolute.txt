@@ -1,0 +1,14 @@
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\bin\Debug\net6.0\Zadacha Fakultet.exe
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\bin\Debug\net6.0\Zadacha Fakultet.deps.json
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\bin\Debug\net6.0\Zadacha Fakultet.runtimeconfig.json
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\bin\Debug\net6.0\Zadacha Fakultet.dll
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\bin\Debug\net6.0\Zadacha Fakultet.pdb
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.AssemblyInfo.cs
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.dll
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\refint\Zadacha Fakultet.dll
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.pdb
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\Zadacha Fakultet.genruntimeconfig.cache
+C:\Users\milen\Desktop\school 2025\Zadacha Fakultet\Zadacha Fakultet\obj\Debug\net6.0\ref\Zadacha Fakultet.dll

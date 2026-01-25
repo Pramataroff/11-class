@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|c:\\users\\milen\\desktop\\school 2025\\zadacha fakultet\\zadacha fakultet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|solutionrelative:zadacha fakultet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|c:\\users\\milen\\desktop\\school 2025\\zadacha fakultet\\zadacha fakultet\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|solutionrelative:zadacha fakultet\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|c:\\users\\milen\\desktop\\school 2025\\zadacha fakultet\\zadacha fakultet\\fakultet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|solutionrelative:zadacha fakultet\\fakultet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|c:\\users\\milen\\desktop\\school 2025\\zadacha fakultet\\zadacha fakultet\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15FF8EE-D148-42A8-A054-3B7761878AB8}|Zadacha Fakultet\\Zadacha Fakultet.csproj|solutionrelative:zadacha fakultet\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Teacher.cs",
+              "RelativeDocumentMoniker": "Zadacha Fakultet\\Teacher.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Teacher.cs",
+              "RelativeToolTip": "Zadacha Fakultet\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T20:06:56.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Student.cs",
+              "RelativeDocumentMoniker": "Zadacha Fakultet\\Student.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Student.cs",
+              "RelativeToolTip": "Zadacha Fakultet\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T20:06:51.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fakultet.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Fakultet.cs",
+              "RelativeDocumentMoniker": "Zadacha Fakultet\\Fakultet.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Fakultet.cs",
+              "RelativeToolTip": "Zadacha Fakultet\\Fakultet.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T20:06:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha Fakultet\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Program.cs*",
+              "RelativeToolTip": "Zadacha Fakultet\\Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T20:06:04.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
