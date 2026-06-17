@@ -16,3 +16,21 @@ C:\Users\milen\Desktop\school 2025\Project 11\Project 11\obj\Debug\Project 11.ex
 C:\Users\milen\Desktop\school 2025\Project 11\Project 11\obj\Debug\Project_11.Migrations.Greens.resources
 C:\Users\milen\Desktop\school 2025\Project 11\Project 11\obj\Debug\Project_11.Migrations.mig1.resources
 C:\Users\milen\Desktop\school 2025\Project 11\Project 11\obj\Debug\Project_11.Form1.resources
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\Project 11.exe.config
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\Project 11.exe
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\Project 11.pdb
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\EntityFramework.dll
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\EntityFramework.xml
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.csproj.AssemblyReference.cache
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.exe.config
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project_11.Form1.resources
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project_11.Migrations.Greens.resources
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project_11.Migrations.mig1.resources
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project_11.Properties.Resources.resources
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.csproj.GenerateResource.cache
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.csproj.Up2Date
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.exe
+C:\Users\milen\Desktop\school 2025\11-class\Project 11\Project 11\obj\Debug\Project 11.pdb
