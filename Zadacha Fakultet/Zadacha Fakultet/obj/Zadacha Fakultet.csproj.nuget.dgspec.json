@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj": {}
+    "C:\\Users\\milen\\Desktop\\school 2025\\11-class\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj": {
+    "C:\\Users\\milen\\Desktop\\school 2025\\11-class\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj",
+        "projectUniqueName": "C:\\Users\\milen\\Desktop\\school 2025\\11-class\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj",
         "projectName": "Zadacha Fakultet",
-        "projectPath": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj",
+        "projectPath": "C:\\Users\\milen\\Desktop\\school 2025\\11-class\\Zadacha Fakultet\\Zadacha Fakultet\\Zadacha Fakultet.csproj",
         "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milen\\Desktop\\school 2025\\Zadacha Fakultet\\Zadacha Fakultet\\obj\\",
+        "outputPath": "C:\\Users\\milen\\Desktop\\school 2025\\11-class\\Zadacha Fakultet\\Zadacha Fakultet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

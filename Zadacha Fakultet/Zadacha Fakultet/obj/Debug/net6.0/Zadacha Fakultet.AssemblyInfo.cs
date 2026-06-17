@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zadacha Fakultet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fcf90ae5d5d64849627c9dc2377df5766829835")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zadacha Fakultet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zadacha Fakultet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
